@@ -1,0 +1,13 @@
+{
+  "name": "core-modules-practice",
+  "version": "0.0.0",
+  "description": "core modules practice",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.18.0"
+  }
+}
